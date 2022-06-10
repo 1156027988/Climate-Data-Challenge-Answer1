@@ -7,4 +7,4 @@ The python script downloading ERA5 data with a coarse resolution (here I used is
 
 Climatology is shown in Fig(a) and anomalies are presented in Fig(b).
 
-!(https://github.com/1156027988/Climate-Data-Challenge-Answer1/blob/main/cdc1.png)
+![image](https://github.com/1156027988/Climate-Data-Challenge-Answer1/blob/main/cdc1.png)
